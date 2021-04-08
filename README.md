@@ -33,7 +33,7 @@ Light skin, she has scars on the left side of her body and her left cat ear is b
 Costume: sleeveless white gown (similar to those used by scientists), tightened by a corset; heart-shaped top and flounce miniskirt, asymmetrical as it gets longer on the left leg, while it reveals lining shorts under it on the right side; she wears a single parisian sock on her right leg and short boots. 
 Colourful, colours contrasting the background.
 Images to take inspiration from: 
-
+https://pin.it/7kaR7vb
 ![](https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/166332707_5237739126296325_4883294248246350245_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=dBC7qUkX0SsAX_CcEdb&_nc_ht=scontent-mxp1-1.xx&oh=0ce9ca478f8b68910ce6e7631b0dbd00&oe=608669E2)
 > #5F1F20 #69302E #452846 #842B2D #AE4C4E
 ##### Kissa's Quarterstaff 
