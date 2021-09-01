@@ -60,7 +60,7 @@ fase 2: uno dei due stati scompare e l'altro si blocca in uno dei punti di **sov
 fase 3a: la magical girl colpisce con successo e sconfigge l'alienetto  
 fase 3b: la magical girl non colpisce l'alienetto in tempo: questo si rialterna con il vecchio stato e si ritorna alla fase 1.   
 
-#### Tipologia B: interazione con l'environment 
+#### Tipologia B: interazione con l'environment - tributo a Snorlax
 Per aprire delle porte, Kissa ha bisogno di superare un alieno, i cui due stati sono relativi all'energia. 
 a. se in ground state " :sleeping: " , Kissa può usare la sua bacchetta per attraversare l'alieno, e colpire un bottone altrimenti irraggiungibile 
 b. se in excited state " :flushed: " , l'interazione di Kissa (che sia avvicinandosi troppo, attaccandolo, o usando la bacchetta) provoca l'alieno, che la danneggia con un attacco che ha lui stesso come centro; attacchi a distanza rimbalzano indietro.
@@ -76,9 +76,13 @@ b. se in excited state " :flushed: " , l'interazione di Kissa (che sia avvicinan
 
 Questa meccanica richiede al giocatore riflessi, per evitare di subire attacchi e lanciare l'incantesimo della magical girl al momento giusto.
 
+#### Tipologia C: interazione con l'environment - eccesso di energia nel labirinto (Livello 3?) 
+Interferenza grafica attraverso un'intermittenza di luci che porta Kissa in un punto diverso della mappa, scatenata dall'entanglement degli alieni che diventa l'unico modo per progredire nel livello. Se Livello 3, unico modo per accedere al boss finale. 
+- [ ] Come le meccaniche dell'accumulo di skills e il labirinto si intersecano?
+
 #### Prototipazione 
 In questo prototipo ci concentriamo sullo **stato** nel senso di **posizione** all'interno di un'ellissi. I due stati sono separati da principio e compaiono a intermittenza in punti casuali dell'orbita. Nello specifico della fase 3b, testare se, a livello di esperienza di gioco, sia meglio costringere il giocatore a colpire o l'alienetto nello stato neutralizzato in precedenza, o il suo "gemello" che prima era scomparso. 
-Due comandi separati per misurazione e attacco per la magical girl; la particella attacca con un singolo proiettile dalla fase 2, mentre durante la fase 1 genera un'onda quando i due stati si incontrano più spesso nell'orbita (da rendere anche semplicemente con un aumento del lancio di proiettili). Durante la misurazione, i proiettili della magical girl urtano quelli dell'alieno (non si trapassano a vicenda). 
+Due comandi separati per misurazione e attacco per la magical girl; la particella attacca con un singolo proiettile dalla fase 2, mentre durante la fase 1 genera un'onda quando i due stati si incontrano più spesso nell'orbita (da rendere anche semplicemente con un aumento del lancio di proiettili). Durante la misurazione, i proiettili della magical girl urtano quelli dell'alieno (non si trapassano a vicenda).
 
 ##### Assets and graphics: 
 
@@ -105,14 +109,17 @@ Due comandi separati per misurazione e attacco per la magical girl; la particell
 
 ### Livello 2 
 Il livello 2 aggiunge alla meccanica del livello 1 l'entanglement, e quindi la concatenazione delle varie particelle le quali mantengono la memoria della superposizione. Ora la magical girl, a seconda di chi ha neutralizzato, potrà acquisire, nella sua scatola, i poteri dello stato dell'alieno. Questo gli servirà per muoversi nello spazio, in una meccanica di movimento che ancora devo ragionare ma che pensavo di riprendere dal gioco da tavolo "Labyrinth" e adattarlo (concettualmente) a superposizione ed entanglement. Dall'altra parte, ogni alienetto ha un indizio su come trovare il boss (non ho ancora pensato che tipo di indizio). 
-Questa meccanica vuole caratterizzare la magical girl, sia riprendendo un piccolo "skill tree", sia a livello caratteriale: rispettando l'aura di dolcezza delle magical girl, e prendendo ispirazione da "Pesca la tua carta Sakura", così facendo gli alienetti sconfitti sono resi amici, o almeno alleati; dall'altra parte, dà un senso al viaggio con il mistero da risolvere per scovare il villain.
-*alternativa: i poteri degli alienetti sono scelti casualmente, e vorticano attorno all'eroina e non chiusi nella scatola, visto che la m.g. è diventata il nuovo fulcro degli alieni che ha sconfitto (e conseguentemente attirato a sé)*
 
-### Livello 3 
+*[alternativa: invece di indizi a parole o immagini, si potrebbe utilizzare la meccanica dei collectible items, in forma di piccole "scariche di energia"]* (01/09/2021)
+
+Questa meccanica vuole caratterizzare la magical girl, sia riprendendo un piccolo "skill tree", sia a livello caratteriale: rispettando l'aura di dolcezza delle magical girl, e prendendo ispirazione da "Pesca la tua carta Sakura", così facendo gli alienetti sconfitti sono resi amici, o almeno alleati; dall'altra parte, dà un senso al viaggio con il mistero da risolvere per scovare il villain.
+*alternativa: i poteri degli alienetti sono scelti casualmente, e vorticano attorno all'eroina e non chiusi nella scatola, visto che la m.g. è diventata il nuovo fulcro degli alieni che ha sconfitto (e conseguentemente attirato a sé)* --> alternativa preferita (01/09/2021)
+
+### Livello 3 [da aggiornare]
 Il livello 3 ha in più la disiinzione tra i poteri dati degli stati (excited o grounded), quello della tipologia di alienetti-particelle: force o matter, e avere quindi degli attacchi in più e non solo qualcosa che agisce sul movimento. 
 Quindi, l'intenzione è approfondire non solo il tema, pur in maniera umanamente progettabile in un mese e quindi in una resa assolutamente fantasiosa, ma anche il suddetto skill tree e la customization della magical girl in senso lato (anche estetico). 
 
-### Livello 4 
+### Livello 4 [da aggiornare] 
 Tutte le meccaniche testate e conosciute dal giocatore nei livelli precedenti, diventano gli strumenti contro il villain, che è potenziato da quelle particelle che, nel processo della superposizione e poi del collasso, la magical girl non ha inglobato. Il villain è composto quindi da tanti alienetti, lui stesso con vari "fulcri" (= particelle) che si muovono ed emanano i loro poteri verso l'esterno (= onde). Qui si riprenderebbe la meccanica pensata inizialmente: inversione della posizione delle particelle (esteticamente simili ai pixel) e quindi reindirizzamento dei poteri. Va approfondito e creato uno schema di possibili interazioni, sia tra gli alieni dentro il villain, che l'incontro tra questi e i poteri della magical girl.
 
 ## Resa del tema nella storia
@@ -120,4 +127,4 @@ Kissa è una studentessa d'arte, che un giorno visita il laboratorio dove è sta
 Il computer, nel momento in cui interagisce con la ragazza, le manda un messaggio da un'altra dimensione: il mondo da cui la contattano è stato attaccato e distrutto da degli alieni, chiamati MetaQuant, capaci di prendere il controllo del pianeta decomponendosi in particelle. Il motivo per cui è Kissa a ricevere il messaggio è perché in quella dimensione la sua "controparte" è una scienziata ed è stata lei a costruire il computer in qubit. Per il principio della superposizione, e quindi dell'entanglement, essendo loro legate l'una all'altra come "gemelle", la Kissa scienziata, morta durante l'attacco, può trasmettere alla pittrice le sue conoscenze ed evitare che anche il suo mondo venga distrutto. 
 Kissa, quindi, si può trasformare in una magical girl (inoltre essere "sia viva che morta") e usare il computer in qubit per fermare gli alieni. 
 
-Il loro leader, però, può usare solo il qubit per interagire in questo mondo: l'unico modo per poter uscire dal computer è azionare un congegno nascosto all'interno del computer e che lo ha rinchiuso, perché sia in grado di trasformarlo in un vero e proprio teletrasporto. Kissa, quindi, dovrà interagire con gli alienetti per togliere potere al mostro, trovare un modo (attraverso la soluzione di indovinelli) per entrare nel marchingegno, sconfiggere il leader degli alieni, disattivare il congegno e riuscire a scappare in tempo.
+Il loro leader, però, può usare solo il qubit per interagire in questo mondo: l'unico modo per poter uscire dal computer è azionare un congegno nascosto all'interno del computer e che lo ha rinchiuso, perché sia in grado di trasformarlo in un vero e proprio teletrasporto. Kissa, quindi, dovrà interagire con gli alienetti per togliere potere al mostro, trovare un modo (attraverso la soluzione di indovinelli) per entrare nel marchingegno [meccanica da rivalutare], sconfiggere il leader degli alieni, disattivare il congegno e riuscire a scappare in tempo.
