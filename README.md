@@ -48,14 +48,13 @@ Magical quarterstaff which holds Kissa's and Saski's essence: it has one big bru
 on the other (used to measure MetaQuant)
 ##### MetaQuant 
 Draft: https://www.piskelapp.com/p/agxzfnBpc2tlbC1hcHByEwsSBlBpc2tlbBiAgOCk35j8Cww/view 
-Best way to describe them is: between UFOs (since they have an elliptical shape, and their paws rotate as the lights on the bottom of the typical UFO), "emojis" (since their expressions are one of the most apparent features distinguishing one twin from the other, along with the colours, and at the same time represent the kind of skills they have), and their general stylized shapes are similar to the aliens from Space Invaders. 
+Best way to describe them is: between UFOs (since they have an elliptical shape, and their paws rotate as the lights on the bottom of the typical UFO), "emojis" (since their expressions are one of the most apparent features distinguishing one twin from the other, along with the colours, and at the same time represent the kind of skills they have), and their general stylized shapes are similar to the aliens from Space Invaders. They're generally silly, since the game is not meant to have gloomy or scary tones, rather the focus is on the mechanics and the increasingly heptic rhythm of the gameplay. 
 ##### Games to take inspiration from: 
 - _Sword of Mana_: the main characters' expressiveness, pixel art.
 #### Gameplay 
-The mechanics are inspired upon quantum superposition and entanglement: for this reason, one alien is composed by two twins as superposition is explained as two opposed statuses of the same quantum. The MetaQuant simulate the particles' behaviour, in an increasing difficulty as the player moves forward.
-Once entanglement is introduced as an additional mechanic, Kissa is able to increase and build her powers according to the typology of MetaQuant twin she's "entangled" with: this will change the MQ Leader fight skills depending on the alien who's not been linked to the player. 
-Four levels.
-Single Player, narrative storyline. 
+The mechanics are inspired upon quantum superposition and entanglement: for this reason, one alien is composed by two twins as superposition is explained as two opposed statuses of the same quantum. The MetaQuant simulate the particles' behaviour, in an increasing difficulty as the player moves forward. Once entanglement is introduced as an additional mechanic, Kissa is able to increase and build her powers according to the typology of MetaQuant twin she's "entangled" with: this will change the MQ Leader fight skills depending on the alien who's not been linked to the player. 
+
+Four levels. Single Player.
 #### Platform 
 PC
 #### Engine 
