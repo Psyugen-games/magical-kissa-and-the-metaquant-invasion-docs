@@ -1,3 +1,11 @@
+## BACK IN THE GAME 2023 EDITION
+### Things I'll take care of in the next two weeks: 
+- [ ] Recap on the gameplay documentation 
+- [ ] Retrieve the storyboard of the Prologue
+- [ ] New version of the storyboard on Milanote (available to anyone, link to be inserted here) 
+- [ ] Research on platformer mechanics 
+- [ ] New GDD version draft and table of contents (easier tasks, smaller) 
+
 ## Game Pitch 
 #### Game Title 
 "Magical Kissa and the MetaQuant Invasion"
